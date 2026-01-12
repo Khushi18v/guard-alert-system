@@ -37,6 +37,9 @@ alarm.wav
 Webcam-enabled system
 
 # How to Run
+1. Ensure Python is installed on your system.
+2. Open the terminal in the project directory.
+3. Run the following command:
 python guard_alert_system.py
 
 
